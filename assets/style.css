@@ -1,4 +1,4 @@
-#mbody {
+.mbody {
     width: 500px;
     padding: 10px;
     border: 2px solid gray;
@@ -9,6 +9,6 @@
     margin-bottom: 5%;
 }
 
-/*.text {
+.text {
 	text-align: left;
 }
