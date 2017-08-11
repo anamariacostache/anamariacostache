@@ -1,10 +1,14 @@
-.mbody {
+#mbody {
     width: 800px;
     padding: 10px;
     border: 2px solid gray;
     margin: 0 10 0 10; 
-	/*text-align: center;*/
+	text-align: center;
     vertical-align: middle;
     /*margin-top: 5%;*/
     margin-bottom: 5%;
+}
+
+.text {
+	text-align: left;
 }
