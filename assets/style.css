@@ -2,10 +2,10 @@
     width: 800px;
     padding: 10px;
     border: 2px solid gray;
-    margin: 0 10 0 10; 
+    margin: auto; 
     vertical-align: center;
     /*margin-top: 5%;*/
-    margin-bottom: 5%;
+    /*margin-bottom: 5%;*/
 }
 
 .text {
