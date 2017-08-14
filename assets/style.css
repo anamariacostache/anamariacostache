@@ -1,7 +1,7 @@
 .mbody {
     width: 800px;
     padding: 10px;
-    border: 2px RGB(255,0,0);
+    border: 2px #7FFFD4;
     margin: auto; 
     vertical-align: center;
     /*margin-top: 5%;*/
